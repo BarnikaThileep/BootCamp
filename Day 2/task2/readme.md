@@ -1,1 +1,1 @@
-
+It describes about the some normal product and fictional product using HTML and CSS 
